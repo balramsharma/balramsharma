@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balramsharma
 - 👀 I’m interested in enhance my knowledge and make try some innovative ideas
-- 🌱 I’m currently learning React native
+- 🌱 I’m currently learning Next JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email or Ph
 
